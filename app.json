@@ -8,32 +8,32 @@
     "pyrogram"
   ],
   "repository": "https://github.com/mrgadhvii-os/UGDEVUploader",
-  "success_url": "https://t.me/UGdevx",
+  "success_url": "https://t.me/RIYA40X",
   "stack": "container",
   "env": {
     "API_ID": {
       "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
-      "value": "22746239",
+      "value": "25405777",
       "required": true
     },
     "API_HASH": {
       "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
-      "value": "a98ec8cfd8572a3a7c936cf828fe6215",
+      "value": "6bff46327fffc7e03fa30a1ed19c5ce0",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-      "value": "",
+      "value": "8282986308:AAHv33Pnmpnmb_-RW7KqEGUuifx7C8m2UrI",
       "required": true
     },
     "OWNER": {
       "description": "𝙀𝙣𝙩𝙚𝙧 𝙔𝙤𝙪𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙄𝘿",
-      "value": "7743201204",
+      "value": "8400887415",
       "required": true
     },
     "CREDIT": {
       "description": "𝙀𝙣𝙩𝙚𝙧 𝘾𝙧𝙚𝙙𝙞𝙩 𝙉𝙖𝙢𝙚 𝙞𝙣 𝙖𝙡𝙢𝙤𝙨𝙩 6-8 𝙡𝙚𝙩𝙩𝙚𝙧𝙨",
-      "value": "〱ＵＧ▕",
+      "value": "〱DILKHUSH▕",
       "required": true
     }
   },
